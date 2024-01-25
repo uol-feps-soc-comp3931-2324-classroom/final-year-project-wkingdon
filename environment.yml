@@ -1,0 +1,10 @@
+name: fenicsx-env
+channels:
+  - defaults
+dependencies:
+  - fenics-dolfinx
+  - pyvista
+  - ipykernel
+  - trame
+  - ipywidgets
+prefix: /home/wrk/miniconda3/envs/fenicsx-env
